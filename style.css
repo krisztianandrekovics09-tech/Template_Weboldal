@@ -1,3 +1,7 @@
 .picture {
-    height: 350px;
+    height: 150px;
+}
+
+.nagybetűs {
+    text-transform: uppercase;
 }
