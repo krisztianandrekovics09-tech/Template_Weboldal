@@ -1,8 +1,3 @@
-.picture {
-    width: 20px;
-    
-}
-
 .nagybetűs {
     text-transform: uppercase;
 }
@@ -10,9 +5,22 @@
 
 .abb {
     color: yellow;
-    font-feature-settings:"cswh";
 }
 
 * {
     background-color: #123476;
+}
+
+.picture img {
+  display: block;
+  margin: 0 auto;
+  width: 775px;
+  height: auto;
+  border: 5px solid rgb(255, 0, 119);
+}
+
+.special {
+    font-family: arcadeclassic;
+    color: rgb(255, 95, 170);
+    font-size: 20px;
 }
